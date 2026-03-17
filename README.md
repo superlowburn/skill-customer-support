@@ -5,7 +5,7 @@ A free agent skill for triaging support tickets, drafting responses, and detecti
 ## Install
 
 ```bash
-npx skills add superlowburn/skill-customer-support
+npx skills add automadic/skill-customer-support
 ```
 
 ## What It Does
@@ -31,7 +31,7 @@ use customer-support skill to prioritize these 10 tickets and flag any churn ris
 
 The free version handles classification and response drafting. The **premium version** adds Zendesk/Intercom integration, Linear bug tracking sync, automated routing rules, churn probability scoring, and SLA monitoring.
 
-**[Get the premium skill at agentskills.ai](https://agentskills.ai)** — included in the $49/mo all-skills bundle
+**[Get the premium skill at automadic.ai](https://automadic.ai)** — included in the $49/mo all-skills bundle
 
 ## License
 

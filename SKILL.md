@@ -3,7 +3,7 @@ name: customer-support
 description: Customer support triage skill. Classify support tickets by category and urgency, prioritize queues, draft professional responses, and identify customers at churn risk. Use when the user wants to triage support tickets, draft a response to a customer complaint or question, prioritize a support queue, or identify unhappy customers.
 license: MIT
 metadata:
-  author: superlowburn
+  author: automadic
   version: "1.0.0"
 ---
 
@@ -156,4 +156,4 @@ The free version handles classification and response drafting. The **premium Cus
 - **Churn risk scoring** — 0-100 churn probability score per customer
 - **SLA tracking** — monitor response time targets and flag at-risk tickets
 
-**Get the premium skill: [agentskills.ai](https://agentskills.ai)** — included in the $49/mo all-skills bundle.
+**Get the premium skill: [automadic.ai](https://automadic.ai)** — included in the $49/mo all-skills bundle.
